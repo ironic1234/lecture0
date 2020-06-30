@@ -1,11 +1,14 @@
 h1 {
     color: red;
     text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    font-weight: bold;
 }
 
 p {
     background-color: greenyellow;
-    width: 200px;
+    width: 300px;
     height: 100px;
     margin: 30px;
     padding: 20px;
